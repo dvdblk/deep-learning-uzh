@@ -1,9 +1,12 @@
 name: dl-uzh
 channels:
   - conda-forge
+  - pytorch
 dependencies:
-  - python=3.9
+  - python=3.9.4
   - numpy
   - matplotlib
   - notebook
-  - scikit-learn
+  - scipy
+  - pytorch
+  - torchvision
