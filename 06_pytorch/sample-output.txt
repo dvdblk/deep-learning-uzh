@@ -1,0 +1,44 @@
+Using device: cuda
+FC network
+        Epoch #0 | Train acc 67.78% | Test acc 86.03%
+        Epoch #1 | Train acc 87.39% | Test acc 89.38%
+        Epoch #2 | Train acc 89.22% | Test acc 90.33%
+        Epoch #3 | Train acc 89.88% | Test acc 90.77%
+        Epoch #4 | Train acc 90.42% | Test acc 91.12%
+        Epoch #5 | Train acc 90.76% | Test acc 91.55%
+        Epoch #6 | Train acc 90.96% | Test acc 91.75%
+        Epoch #7 | Train acc 91.15% | Test acc 91.81%
+        Epoch #8 | Train acc 91.43% | Test acc 91.69%
+        Epoch #9 | Train acc 91.50% | Test acc 92.02%
+        Epoch #10 | Train acc 91.56% | Test acc 91.69%
+        Epoch #11 | Train acc 91.77% | Test acc 92.06%
+        Epoch #12 | Train acc 91.90% | Test acc 92.34%
+        Epoch #13 | Train acc 91.89% | Test acc 91.81%
+        Epoch #14 | Train acc 92.12% | Test acc 92.16%
+        Epoch #15 | Train acc 92.22% | Test acc 91.95%
+        Epoch #16 | Train acc 92.29% | Test acc 92.22%
+        Epoch #17 | Train acc 92.42% | Test acc 92.31%
+        Epoch #18 | Train acc 92.48% | Test acc 92.44%
+        Epoch #19 | Train acc 92.62% | Test acc 92.67%
+
+ConvNet
+        Epoch #0 | Train acc 89.22% | Test acc 97.21%
+        Epoch #1 | Train acc 97.33% | Test acc 97.88%
+        Epoch #2 | Train acc 97.99% | Test acc 98.50%
+        Epoch #3 | Train acc 98.32% | Test acc 98.63%
+        Epoch #4 | Train acc 98.64% | Test acc 98.63%
+        Epoch #5 | Train acc 98.73% | Test acc 98.59%
+        Epoch #6 | Train acc 98.86% | Test acc 98.83%
+        Epoch #7 | Train acc 98.92% | Test acc 98.93%
+        Epoch #8 | Train acc 99.04% | Test acc 98.99%
+        Epoch #9 | Train acc 99.04% | Test acc 98.83%
+        Epoch #10 | Train acc 99.13% | Test acc 98.95%
+        Epoch #11 | Train acc 99.22% | Test acc 99.12%
+        Epoch #12 | Train acc 99.27% | Test acc 99.03%
+        Epoch #13 | Train acc 99.32% | Test acc 98.92%
+        Epoch #14 | Train acc 99.33% | Test acc 98.90%
+        Epoch #15 | Train acc 99.42% | Test acc 98.88%
+        Epoch #16 | Train acc 99.38% | Test acc 99.11%
+        Epoch #17 | Train acc 99.47% | Test acc 99.04%
+        Epoch #18 | Train acc 99.46% | Test acc 99.12%
+        Epoch #19 | Train acc 99.51% | Test acc 99.04%
